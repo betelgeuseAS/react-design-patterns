@@ -2,7 +2,7 @@ import React from 'react'
 
 import { Products } from './Products'
 
-export const HomePage = () => {
+export const App = () => {
   return (
     <div>
       <h1>Products List 1</h1>
